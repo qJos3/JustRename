@@ -1,0 +1,6 @@
+name: JustRename
+author: Jos3
+main: Jos3\JustRename
+api:
+  - 4.0.0
+version: 1.0

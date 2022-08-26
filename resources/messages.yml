@@ -1,0 +1,7 @@
+
+non-permission: "&7[&4Error&7] &cYou don't have permission to do this."
+
+rename-error: "&7[&4Error&7] &cYou can only rename tools or bows."
+rename-length: "&7[&4Error&7] &cYou can't rename a item with more than 40 characters."
+rename-usage: "&7[&4Error&7] &cUse /rename <item-name>."
+rename-success: "&aYou renamed the item successfully."
